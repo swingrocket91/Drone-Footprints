@@ -221,6 +221,7 @@ Tested and works with:
 - Mavic 2 Series
 - Mavic 3 Multispectral
 - EVO II
+- DJI Matrice 30 T
 
 ----------------------------------------------------------------------------------------------------------------
 
